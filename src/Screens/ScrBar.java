@@ -14,6 +14,7 @@ public class ScrBar extends ScrFactory {
 		this.health = max;
 		this.color = c;
 		this.stock = stock;
+		
 	}
 	
 	public void setNewHeathSettings(double health, double healthMax){
@@ -37,6 +38,7 @@ public class ScrBar extends ScrFactory {
 	protected void update(double health, int stock){
 		this.health = health;
 		this.stock = stock;
+		this.paintComponent(this.getGraphics());
 	}
 	
 	@Override
@@ -50,6 +52,7 @@ public class ScrBar extends ScrFactory {
 		g.setColor(Color.black);
 		g.setFont(STYLE.TITLEFONT);
 		g.drawString(this.stock+"", this.getWidth()/2 - g.getFontMetrics().stringWidth(this.stock+"")/2, getHeight()/2);
+	
 	}
 	
 	
