@@ -1,8 +1,8 @@
 Health Based Sabre Fencing
 =============================
 Fight Health based sabre fencing
-<p align="">
-  <img width="20%" src="/readmeImages/1 (1).png">
+<p align="center">
+  <img width="20%" src="/readmeImages/1.png">
 </p>
 
 Features
