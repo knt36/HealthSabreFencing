@@ -6,7 +6,7 @@ Health Based Sabre Fencing
   <img width="100%" src="/readmeImages/3.PNG">
   <img width="100%" src="/readmeImages/4.PNG">
   <img width="100%" src="/readmeImages/5.PNG">
-  <img width="100%" src="/readmeImages/6.PNG">
+  <img width="100%" src="/readmeImages/7.PNG">
 </p>
 
 Features
